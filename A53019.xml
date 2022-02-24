@@ -1,0 +1,483 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A New-Years-gift to the Honourable Admiral Russel, on his glorious victory over the French fleet</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53019</idno>
+            <idno type="STC">Wing N818B</idno>
+            <idno type="STC">ESTC R42211</idno>
+            <idno type="EEBO-CITATION">24418382</idno>
+            <idno type="OCLC">ocm 24418382</idno>
+            <idno type="VID">109694</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53019)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109694)</note>
+            <note>Images scanned from microfilm: (Early English books,   1641-1700 ; 1708:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A New-Years-gift to the Honourable Admiral Russel, on his glorious victory over the French fleet</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by T. Moore,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>In verse.</note>
+                  <note>"When this was written, Dixmuyd and Fernes were in the English hands"--p. 8.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Orford, Edward Russell, --  Earl of, 1653-1727 --  Poetry.</term>
+               <term>Grand Alliance, War of the, 1689-1697 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:109694:1" rendition="simple:additions"/>
+            <head>A New-Years-Gift To the Honourable Admiral Ruſſel, On his <hi>Glorious Victory</hi> over the <hi>French Fleet.</hi>
+            </head>
+            <lg>
+               <l>LOng did the Languiſhing <hi>Brittania</hi> grown</l>
+               <l>Beneath <hi>French</hi> Power on the <hi>Engliſh</hi> Throne!</l>
+               <l>
+                  <hi>French</hi> Councills, <hi>French</hi> Debauch'ry rul'd the Roſt,</l>
+               <l>And gen'rous <hi>Engliſh</hi> Courage quite was loſt.</l>
+               <l>
+                  <hi>Blake, Deane,</hi> and <hi>Lawſon,</hi> whoſe each ſingle Name,</l>
+               <l>Without an <hi>Epithet,</hi> ſwells the <hi>Cheeks of Fame;</hi>
+               </l>
+               <l>
+                  <hi>England</hi>'s brave Hero's, who diſdain'd to Bear</l>
+               <l>The <hi>Romiſh</hi> Yoak, or <hi>Gallic</hi> Fetters wear;</l>
+               <l>Who all the <hi>Naval</hi> Power of <hi>Europe</hi> Sway'd,</l>
+               <l>And ſturdy <hi>Algerines</hi> their Laws obey'd:</l>
+               <l>Loaden with glory, <hi>Theſe</hi> their Lives reſign,</l>
+               <l>And their lov'd Names in Fames bright Annals ſhine.</l>
+               <l>Great <hi>Ruport,</hi> and brave <hi>Monk</hi> a while Support</l>
+               <l>The <hi>Engliſh</hi> Valour, ſince made <hi>Europes</hi> ſport,</l>
+            </lg>
+            <lg>
+               <l>With theſe fell th' Honour of our Engliſh Fleet,</l>
+               <l>Degenerate Souls <hi>Degenerous</hi> acts commit!</l>
+               <l>Soft <hi>Daliance</hi> now <hi>Emaſculates</hi> the Land,</l>
+               <l>
+                  <hi>Old</hi> Captains laid aſide, and <hi>Boys</hi> Command;</l>
+               <l>For <hi>Balls</hi> and <hi>Maſquerades</hi> highly renown'd,</l>
+               <l>And <hi>Tilting</hi> Beedles in their Midnight-round;</l>
+               <l>
+                  <hi>Effeminate</hi> Courts <hi>Effeminate</hi> Youths employ,</l>
+               <l>Theſe keep not up our glory, but deſtroy.</l>
+               <l>An <hi>Engliſh King</hi> Mannag'd by <hi>Bourillion,</hi>
+               </l>
+               <l>Is a fit <hi>Tool</hi> t'advance the <hi>Gallic</hi> Throne!</l>
+               <pb n="2" facs="tcp:109694:2"/>
+               <l>Thus <hi>We</hi> who gave the boundleſs Ocean Law,</l>
+               <l>And our Confederate Neighbours kept in <hi>Awe,</hi>
+               </l>
+               <l>
+                  <hi>Scorn'd</hi> and deſpis'd like <hi>Abjects,</hi> were become</l>
+               <l>
+                  <hi>Slaves</hi> to the <hi>French,</hi> and <hi>Proſelites</hi> to <hi>Rome.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>At length Great <hi>Brittains</hi> better Genius ſaw,</l>
+               <l>The heavy Yoak her <hi>Sons</hi> were forc't to draw,</l>
+               <l>And with <hi>Compaſſion</hi> touch'd the <hi>Generous Naſſaw.</hi>
+               </l>
+               <l>
+                  <hi>Naſſaw</hi> the Darling of Heav'ns kinder Powers,</l>
+               <l>Our <hi>Native Freedom</hi> to our <hi>Iſle</hi> Reſtores;</l>
+               <l>Like the <hi>Firſt Kings</hi> or Chiefs, with Courage ſtout,</l>
+               <l>He to the Battel leads his <hi>Captains</hi> out,</l>
+               <l>In hotteſt Actions <hi>Foremoſt</hi> he appears,</l>
+               <l>Nor ſhuns the <hi>Combat</hi> check'd by <hi>Guilty Fears,</hi>
+               </l>
+               <l>His <hi>Martial</hi> Heat th' Old <hi>Engliſh</hi> Courage warms,</l>
+               <l>Rais'd, and <hi>Revives</hi> the Credit of her <hi>Arms:</hi>
+               </l>
+               <l>From <hi>Rav'nous Lewis</hi> he a <hi>Kingdom</hi> tore,</l>
+               <l>Forc'd him his <hi>Boaſted Ireland</hi> to Reſtore,</l>
+               <l>And drove his baffled Troops home to their ſlaviſh Shoar,</l>
+               <l>With winged Force purſues him on the Main,</l>
+               <l>And checks the Progreſs of his <hi>Grand Campain;</hi>
+               </l>
+               <l>Whilſt ſhifting <hi>Luxemburgh</hi> in Entrenchments hides</l>
+               <l>His ſneaking Troops, and <hi>Faſtneſſes</hi> proyides:</l>
+               <l>His vaunting Squadrons dares not ours engage,</l>
+               <l>But dread the ſhock of Conq'ring <hi>Naſſaw</hi>'s Rage;</l>
+               <l>The Battel of the glorious Field they ſhun,</l>
+               <l>And avoiding Fighting, may be ſaid to <hi>Run.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Brave <hi>England</hi>'s King, who knows not to b' affraid,</l>
+               <l>Hath all the <hi>Daring</hi> Stratagems eſſaid,</l>
+               <l>But all in vain, ſince the <hi>Inglorious French,</hi>
+               </l>
+               <l>Fearful of Vengeance, meanly do Entrench.</l>
+               <pb n="3" facs="tcp:109694:2"/>
+               <l>
+                  <hi>Honour</hi> and <hi>Arms</hi> Great <hi>Orange</hi> Nobly Courts,</l>
+               <l>
+                  <hi>Lewis</hi> to Treacherous <hi>Poiſonings</hi> Reſorts;</l>
+               <l>Conſcious, when thoſe his helliſh <hi>Arts</hi> ſhall fail,</l>
+               <l>He ne're can by his <hi>Guilty</hi> Arms prevail.</l>
+            </lg>
+            <lg>
+               <l>On the <hi>French</hi> Conqueſts now our Monarch ſtands,</l>
+               <l>And makes them Tributary to our Bands,</l>
+               <l>With <hi>Engliſh</hi> Troops <hi>Dunkirk</hi> in Pound he keeps,</l>
+               <l>And betwixt <hi>Lewis</hi> and his <hi>Dunkirk</hi> ſleeps;</l>
+               <l>
+                  <hi>Dunkirk</hi> that's lodg'd in <hi>Lewis</hi>'s panting Breaſt,</l>
+               <l>As of her <hi>Callais Mary</hi> once expreſt:</l>
+               <l>
+                  <hi>Dunkirk</hi> before, by <hi>Engliſh</hi> Valour ta'ne,</l>
+               <l>And for <hi>French</hi> Piſtols baſely Sold again:</l>
+               <l>Great <hi>William</hi>'s Sword muſt now the Knot untie,</l>
+               <l>And regain by <hi>Arms</hi> what <hi>France</hi> with <hi>Gold</hi> did buy:</l>
+            </lg>
+            <lg>
+               <l>Whilſt our great King, on Land, ſuch <hi>Glories</hi> meet,</l>
+               <l>To <hi>You</hi> he leaves the Conduct of his <hi>Fleet;</hi>
+               </l>
+               <l>
+                  <hi>You</hi> who have laid freſh Lawrels at his Feet.</l>
+               <l>
+                  <hi>Ruſſel</hi> before <hi>England</hi>'s Reſpects might Claim</l>
+               <l>For a <hi>Champion,</hi> and a <hi>Martyr</hi> of that Name,</l>
+               <l>You more a Debtor have your Country made,</l>
+               <l>And rais'd that <hi>Fund</hi> of Honour they had laid.</l>
+               <l>True to the Truſt the <hi>Royal Pair</hi> Repos'd,</l>
+               <l>Their Intereſt and their Kingdoms <hi>You</hi> eſpous'd.</l>
+            </lg>
+            <lg>
+               <l>The firſt Years Expedition ſpent in vain,</l>
+               <l>Hunting for <hi>Tourvill</hi> on the Foaming Main;</l>
+               <l>That bluſtring Monſieur, who the Year before</l>
+               <l>Show'd his great <hi>French Armada</hi> on our Shoare,</l>
+               <l>Burning five <hi>Fiſher-Boats,</hi> durſt attempt no more.</l>
+               <l>At Land, and Sea the <hi>French</hi> like Courage ſhow,</l>
+               <l>With equal <hi>Force</hi> they dare not ſee their <hi>Foe.</hi>
+               </l>
+               <pb n="4" facs="tcp:109694:3"/>
+               <l>The <hi>Engliſh</hi> Navy o're the Ocean Rides,</l>
+               <l>Proud of that glorious Burthen on her Tides.</l>
+               <l>With Indignation ſcowres the Channel Round,</l>
+               <l>But neither <hi>Tourvil</hi> nor his <hi>Fleet</hi> were found;</l>
+               <l>Our eager Youth near mad with Martial Rage,</l>
+               <l>Hunting a Foe they could not come t' engage;</l>
+               <l>Perplext, and Raving, ſcarcely they forbear,</l>
+               <l>With violent Hands their very fleſh to tear.</l>
+               <l>Mean while our <hi>Heroe</hi> with great pain ſuppreſt</l>
+               <l>The burning <hi>Indignation</hi> in his Breaſt,</l>
+               <l>He forc't his ſwelling <hi>Paſſion</hi> to obey,</l>
+               <l>And for the next <hi>fit time</hi> for Vengeance ſtay.</l>
+               <l>Kind Heav'n <hi>agreed,</hi> and with a wiſht for gale</l>
+               <l>Upon our <hi>Fleet</hi> this year drove fifty Sail,</l>
+               <l>Their warm Reception quickly made them know,</l>
+               <l>They now in earneſt met a generous Foe,</l>
+               <l>Would try their Courage e're they'd let 'em go.</l>
+               <l>With pompous Rage the <hi>Admirals Admirals</hi> meet;</l>
+               <l>Ours glad they'd <hi>found</hi> at laſt, the <hi>Gallic</hi> Fleet,</l>
+               <l>And whatſoe're detracting French-men ſay,</l>
+               <l>But <hi>Forty</hi> of our Ships could come in play;</l>
+               <l>Th' unequal Odds our <hi>Captains</hi> ſcorn to ſhun,</l>
+               <l>The <hi>Leſſer</hi> Number <hi>Greater</hi> Glory won.</l>
+               <l>With Peals of Joy our Men the Welkin tear,</l>
+               <l>And with <hi>preſaging</hi> Huzza's cleave the Aire,</l>
+               <l>
+                  <hi>Glorie's</hi> their aim, and that they cloſe purſue,</l>
+               <l>With warmth the <hi>French</hi> were unaccuſtom'd too.</l>
+               <l>Stout <hi>Carter</hi> who too early loſt a Thigh,</l>
+               <l>With his laſt Breath did ſtill the Foe defie;</l>
+               <pb n="5" facs="tcp:109694:3"/>
+               <l>He ſaw himſelf <hi>Reveng'd</hi> e're he expir'd,</l>
+               <l>And to the bed of <hi>Glory</hi> ſtrait retir'd.</l>
+            </lg>
+            <lg>
+               <l>Through guſts of Thunder <hi>bright Brittania's</hi> hurld.</l>
+               <l>To <gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>d the <hi>Miſtreſs</hi> of the <hi>Wat'ry World,</hi>
+               </l>
+               <l>She whom vain-glorious <hi>Lewis</hi> built to ſway</l>
+               <l>The <hi>Ocean,</hi> as the <hi>Land,</hi> muſt him <hi>obey;</hi>
+               </l>
+               <l>M<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the <hi>Omen</hi> of his <hi>Fortune</hi> be,</l>
+               <l>And his <hi>Arms</hi> at Land ſucceed as thoſe at <hi>Sea!</hi>
+               </l>
+               <l>Reſolved <hi>Ruſſel</hi> ſtorms her lofty ſides,</l>
+               <l>Humbles the vaunting <hi>Motto</hi> of her pride,</l>
+               <l>All heat, all indignation, peals of Fire</l>
+               <l>Break from his roaring tyres, the affrighted Air</l>
+               <l>Trembling and wounded, to the <hi>French</hi> Coaſt flies,</l>
+               <l>And Eccho's out their <hi>Navy's</hi> Obſequies.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Tourvill,</hi> with warmth not ſeen in <hi>French</hi> before</l>
+               <l>Receives the broad-ſides which our Cannons poure,</l>
+               <l>He all his <hi>Force,</hi> and all his <hi>Skill</hi> apply'd</l>
+               <l>To keep Victorious <hi>Ruſſel</hi> from his ſide,</l>
+               <l>But all in vain, <hi>Englands</hi> Brave <hi>Admiral</hi> knew</l>
+               <l>The <hi>Oceans Soverainty</hi> was <hi>Englands</hi> due;</l>
+               <l>Cloſe to the Monſieurs fiery ſides he bore,</l>
+               <l>And with freſh Thunder <hi>Storms</hi> him o're and o're;</l>
+               <l>Their Murthering Ball thick as their hail ſhot flew,</l>
+               <l>And ev'ry broad-ſide doth their rage renew;</l>
+               <l>With Fire <hi>Brittania</hi> clouds the <hi>Riſing Sun,</hi>
+               </l>
+               <l>And in flaming Circles on his <hi>Orb</hi> doth run,</l>
+               <l>Arm-yard to Arm-yard cloſely they Engage,</l>
+               <l>And in loud roaring vollies tell their Rage;</l>
+               <l>Ne're on the <hi>Sea</hi> was greater bravery ſhewn,</l>
+               <l>Nor Honours prize with greater Glory won.</l>
+               <pb n="6" facs="tcp:109694:4"/>
+               <l>After <hi>Five Hours</hi> diſpute in Smoaky Clouds,</l>
+               <l>Storming of <hi>Hulls,</hi> Rending of Sinwey <hi>Shrouds,</hi>
+               </l>
+               <l>With all the Horrid pomp a <hi>Naval</hi> Fight</l>
+               <l>Could e're preſent, or Scaly Squadrons 'fright;</l>
+               <l>The <hi>Riſing Sun</hi> ſinks in the Watry deep,</l>
+               <l>And his <hi>Shining Glories</hi> in her <hi>Waves</hi> doth ſteep.</l>
+               <l>Th' <hi>Immortal Palme You</hi> Mighty Sir have won,</l>
+               <l>And have <hi>Eclipſt</hi> proud <hi>Lewis</hi>'s Riſing <hi>Sun.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>So have I ſeen in a diſturbed Air</l>
+               <l>Two Sable Clouds meeting from Regions far,</l>
+               <l>Grown big with Tempeſts, at each other Flaſh,</l>
+               <l>'Till their loud Storms have made Heav'ns vault to craſh,</l>
+               <l>Their Fires meet, and <hi>Combat</hi> in the Sky,</l>
+               <l>And <hi>Bellow</hi> out their <hi>Thunders</hi> from on High,</l>
+               <l>Diſgorging Flame, as if the Globe they'd burn,</l>
+               <l>And <hi>Earths Foundations</hi> into Aſhes turn;</l>
+               <l>Their <hi>Sulph'rous Store</hi> being ſpent, they melt in ſhowers,</l>
+               <l>And Rapid Torrents from the Mountains poure:</l>
+               <l>In <hi>Lightning</hi> they begin, in <hi>Rain</hi> Expire,</l>
+               <l>And <hi>Neptunes</hi> Flood Extinquiſht <hi>Vulcans</hi> Fire.</l>
+               <l>Nor did your <hi>Captains</hi> little <hi>Bravery</hi> ſhew,</l>
+               <l>They ſignalliz'd their Courage on the foe,</l>
+               <l>
+                  <hi>Your</hi> great Example did their Spirits Raiſe;</l>
+               <l>Each Fought for, and deſerv'd a Conquerers Bays.</l>
+               <l>
+                  <hi>Your Maſter,</hi> on the <hi>Land,</hi> his Troops Inſpires,</l>
+               <l>At <hi>Sea You</hi> Animate with your Martial Fires.</l>
+               <l>Three mighty Ships into the Air were blown,</l>
+               <l>Monſieurs flew <hi>capering</hi> up, came <hi>tumbling</hi> down:</l>
+               <l>The reſt o'th' ſhatter'd Fleet make to <hi>La-Hogue,</hi>
+               </l>
+               <l>And ſeek <hi>Protection</hi> from St. <hi>Patrick</hi>'s <hi>Brogue;</hi>
+               </l>
+               <pb n="7" facs="tcp:109694:4"/>
+               <l>
+                  <hi>Lillie-Boliero's,</hi> who their <hi>Country</hi> loſt,</l>
+               <l>Were now made <hi>Guardians</hi> of the <hi>Norman</hi> Coaſt,</l>
+               <l>Theſe ſaw their <hi>Burning</hi> Squadrons in the <hi>Bay,</hi>
+               </l>
+               <l>On their <hi>own Coaſts</hi> their Ships became <hi>our</hi> prey.</l>
+            </lg>
+            <lg>
+               <l>Boaſt not of <hi>Mons,</hi> by Treacherous Prieſts <hi>betray'd,</hi>
+               </l>
+               <l>Nor <hi>Namur</hi> which the <hi>Floods</hi> thy <hi>Captive made!</hi>
+               </l>
+               <l>Whilſt <hi>Heav'n</hi> with faint <hi>Te Deums Lewis mocks,</hi>
+               </l>
+               <l>And with <hi>Falſe</hi> Tryumphs <hi>buoys</hi> his ſenceleſs <hi>Stocks,</hi>
+               </l>
+               <l>On his own Shoar his <hi>Flaming Flota</hi> lies,</l>
+               <l>To the <hi>Engliſh Admiral</hi> a <hi>Sacrifice:</hi>
+               </l>
+               <l>Brave <hi>Ruſſel</hi> ſcorns his <hi>Glorious King</hi> to greet</l>
+               <l>With a leſs <hi>Bonfire</hi> than the <hi>Gallic Fleet.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Methinks I ſee the King of the great Deep</l>
+               <l>With all his Trytons Halcyon Revels keep,</l>
+               <l>Glad their <hi>Right Lords</hi> Reſume their Ancient ſway;</l>
+               <l>Swearing Allegiance to <hi>Brittannia.</hi>
+               </l>
+               <l>The <hi>Syrens</hi> our <hi>Brittania's</hi> Tryumphs ſing,</l>
+               <l>And in Shells of Pearl Quaf Healths to <hi>Brittains King,</hi>
+               </l>
+               <l>The joyful <hi>Sea Gods</hi> pledge the Bumper round,</l>
+               <l>And with ſhril whiſtles make the <hi>Sea</hi> reſound.</l>
+               <l>
+                  <hi>Stave a French-prize,</hi> quoth <hi>Neptune,</hi> and Advance</l>
+               <l>A Health to <hi>England</hi> in the Wine of <hi>France;</hi>
+               </l>
+               <l>That Conqu'ring <hi>Heroe</hi> ſhall their Topſails Lower,</l>
+               <l>And <hi>Tributary France</hi> ſhall own <hi>his</hi> Power;</l>
+               <l>Annals to come ſhall with <hi>his</hi> Conqueſts ſwell,</l>
+               <l>
+                  <hi>Turky,</hi> and <hi>India</hi> ſhall <hi>his</hi> Tryumphs tell.</l>
+               <l>To the <hi>Levant,</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>tmoſt Eaſt</hi> then Fly,</l>
+               <l>And tell each <hi>Port</hi> this Glorious <hi>Victory,</hi>
+               </l>
+               <l>This ſaid they all Obey'd.</l>
+               <pb n="8" facs="tcp:109694:5"/>
+            </lg>
+            <lg>
+               <l>But more <hi>ſubſtantial Votes</hi> att<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>aiſe,</l>
+               <l>
+                  <hi>Caeſar,</hi> the <hi>Senate,</hi> and the <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>Eternal <hi>Trophies</hi> to their <hi>Admirals</hi> Name,</l>
+               <l>Shall equalize the longeſt date of Fame.</l>
+               <l>So the <hi>Old Romans,</hi> when their <hi>Generals</hi> prove,</l>
+               <l>By brave <hi>Exploits,</hi> worthy their <hi>Country's</hi> love;</l>
+               <l>Raiſe <hi>Obelisks,</hi> and <hi>Statues</hi> to make known</l>
+               <l>The <hi>Victories,</hi> and <hi>Battels they</hi> had won.</l>
+            </lg>
+            <lg>
+               <l>When future <hi>Parliaments</hi> ſhall come to Note</l>
+               <l>In their Records our <hi>Auguſt Senates</hi> Vote,</l>
+               <l>With what <hi>
+                     <g ref="char:V">Ʋ</g>nanimous conſent</hi> they own</l>
+               <l>The <hi>Courage, Conduct, Faith</hi> your zeal hath ſhewn:</l>
+               <l>
+                  <hi>Reſtor'd</hi> its former Glory to our <hi>Iſle,</hi>
+               </l>
+               <l>And of a <hi>Navy</hi> made a <hi>Funeral Pile;</hi>
+               </l>
+               <l>This in times Callendar ſhall far ſurpaſs</l>
+               <l>The <hi>Roman Marble,</hi> or <hi>Corinthian Braſs.</hi>
+               </l>
+               <l>'Tis <hi>Englands Thanks</hi> that are acknowledg'd due</l>
+               <l>By her great <hi>Repreſentatives</hi> to you!</l>
+               <l>May no <hi>Invidious Vermine</hi> ever tear</l>
+               <l>That ſacred <hi>Vellom,</hi> let it always bear</l>
+               <l>To future times the <hi>Mighty things</hi> you've done,</l>
+               <l>And an <hi>obliged Kingdoms</hi> praiſe have <hi>won.</hi>
+               </l>
+               <l>May <hi>pale</hi> and <hi>Trecherous Envy</hi> ever hide</l>
+               <l>Her <hi>guilty head;</hi> whilſt ſtill each flowing Tyde</l>
+               <l>Shall waft freſh Tryumphs to <hi>great Ruſſel</hi>'s Name,</l>
+               <l>And far as th' Ocean Rowls your <hi>high deſert</hi> Proclaim.</l>
+            </lg>
+         </div>
+         <div type="license">
+            <p>
+               <hi>Licenſed according to Order,</hi> 
+            </p>
+            <closer>
+               <signed> E. Bohun.</signed>
+            </closer>
+         </div>
+         <div type="note">
+            <head>ADVERTISEMENT.</head>
+            <p>
+               <hi>When this was Written;</hi> Dixmuyd <hi>and</hi> Fernes <hi>were in the</hi> Engliſh <hi>Hands</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed and Sold by <hi>T. Moore.</hi> 1693.</p>
+            <pb facs="tcp:109694:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
